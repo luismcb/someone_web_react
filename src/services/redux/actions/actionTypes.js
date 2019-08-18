@@ -1,0 +1,11 @@
+//GLOBAL
+export const SET_LOADER= "SET_LOADER";
+
+//FORMS
+export const LIST_COUNTRIES="LIST_COUNTRIES";
+export const FORM_ERROR="FORM_ERROR";
+
+//USERS
+export const REGISTER_USER="REGISTER_USER";
+export const USER_ERROR="USER_ERROR";
+
